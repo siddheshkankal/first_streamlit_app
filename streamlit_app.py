@@ -3,9 +3,6 @@ import streamlit
 streamlit.title('My Parents New Healthy Diner ')
 
 streamlit.header('Breakfast Menu')
-
-streamlit.text('Omega 3 and Blueberry meal')
-streamlit.text('Aloo paratha')
-streamlit.text('Hard boiled egg')
-streamlit.text('Chicken noodles')
-
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
